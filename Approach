@@ -1,0 +1,12 @@
+Importing Libraries
+Importing Dataset
+Null Value and Missing value Treatment
+Feature Engineering
+Calculate a new field named as 'amount'
+Exploratory Data Analysis , ploting some graphs.
+Outliar Treatment
+Dropping customerID 
+Applying Normalization
+Finding optimum number of clusters with elbow method and silhoutte score
+Applying K-means clustering algorithm
+Use hiearchial clustering
